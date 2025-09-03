@@ -1,0 +1,19 @@
+projects:
+  default:
+    dev:
+      host:
+      user:
+      pass:
+      apth:
+
+    test:
+      host:
+      user:
+      pass:
+      apth:
+
+    production:
+      host:
+      user:
+      pass:
+      apth:
