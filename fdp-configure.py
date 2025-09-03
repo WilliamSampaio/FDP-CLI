@@ -8,3 +8,5 @@ CONFIG_TEMPLATE_DIRS = [
     os.path.join(os.getcwd(), CONFIG_FILENAME),
     os.path.join('/usr/local/share/fdp-cli', CONFIG_FILENAME),
 ]
+
+print('em desenvolvimento...')
